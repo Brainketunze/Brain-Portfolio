@@ -1,7 +1,6 @@
 ..Hello world..
-This is a PSD to HTML project. 
-The name of the psd is Nandine.
-The psd is purchased from Themeasia.com
+This is a HTML portfolio. 
+The name of the portfolio is Brain.
 
 This is version : 1.0.
 
